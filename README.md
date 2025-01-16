@@ -2,7 +2,7 @@
 
 A curation of awesome tools, documents and projects about LLM Security.
 
-Contributions are always welcome. Please read the [Contribution Guidelines](CONTRIBUTING.md) before contributing.
+Contributions are always welcome. Please read the [Contribution Guidelines](CONTRIBUTING.md) before contributing. 
 
 ## Table of Contents
 
